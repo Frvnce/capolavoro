@@ -21,6 +21,7 @@ html,body{
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
 }
 
 .container{
@@ -47,4 +48,8 @@ font-optical-sizing: auto;
 font-style: normal;
 font-size: calc(1.3vw + 1.3vh + 5vmin); /* Imposta la dimensione del font basata sulla larghezza della finestra */
 max-width: 100%; /* Imposta la larghezza massima per il testo */
+}
+
+a{
+  color: #30344c;
 }
