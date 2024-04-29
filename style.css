@@ -41,10 +41,10 @@ padding: 20px;
 .messaggio{
 color: white;
 text-align: center;
-font-weight: 900;
+font-weight: 800;
 font-family: "Roboto Condensed", sans-serif;
 font-optical-sizing: auto;
 font-style: normal;
-font-size: calc(1vw + 1vh + 5vmin); /* Imposta la dimensione del font basata sulla larghezza della finestra */
+font-size: calc(1.3vw + 1.3vh + 5vmin); /* Imposta la dimensione del font basata sulla larghezza della finestra */
 max-width: 100%; /* Imposta la larghezza massima per il testo */
 }
